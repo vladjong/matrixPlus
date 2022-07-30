@@ -6,10 +6,6 @@ Implementation my matrix library
 
 ### Matrix operations
 
-There is a brief description of the matrix operations below that need to be implemented in the developing library.
-They are similar to the operations you performed earlier in «structured programming», so you can see a more detailed description of them there.
-Note that some operations have exceptional situations that require special handling using the exception mechanism.
-
 | Operation | Description | Exceptional situations |
 | ----------- | ----------- | ----------- |
 | `bool eq_matrix(const S21Matrix& other)` | Checks matrices for equality with each other |  |
